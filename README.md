@@ -1,6 +1,5 @@
 <img width="250" align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 
-https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif
 
 <h3 align="center">
   Welcome to Eyad Saher's profile!
