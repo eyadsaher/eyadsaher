@@ -14,8 +14,8 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, HTML, and CSS, or anything related to web development.
-- ⚡ Fun Fact: I'm very active and in love with travelling &nbsp; <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"> &nbsp; and currently i'm exploring europe alongside my studies!!
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- ⚡ Fun Fact: I'm very active and in love with travelling &nbsp; <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"> &nbsp; and currently i'm exploring europe alongside my studies!!
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
