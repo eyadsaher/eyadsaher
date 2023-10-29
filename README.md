@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, HTML, and CSS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, HTML, and CSS, or Algorithims and Data Structures.
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - ⚡ Fun Fact: I'm very active and in love with travelling &nbsp; <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"> &nbsp; and currently i'm exploring europe alongside my studies!!
 
@@ -28,9 +28,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
-![WebPack](https://img.shields.io/badge/-WebPack-013?style=for-the-badge&logo=WebPack)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-013?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
