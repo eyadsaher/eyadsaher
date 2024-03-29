@@ -21,7 +21,7 @@
 <a href="https://wa.me/+4367761719524" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
-![TvpeScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
+![TvpeScript](https://img.shields.io/badge/-TypeScript-013?style=for-the-badge&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
