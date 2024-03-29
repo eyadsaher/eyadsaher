@@ -11,11 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Developer
-- 👨‍💻 As an Artificial Intelligence Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, HTML, and CSS, or Algorithims and Data Structures.
-- 👨‍💻 Check out my portfolio by clicking [here](https://eyadsaher.netlify.app/) to see some of the projects I've worked on.
-- ⚡ Fun Fact: I'm very active and in love with travelling &nbsp; <img src="https://media.giphy.com/media/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"> &nbsp; and currently i'm exploring europe alongside my studies!!
+- 🏢 I'm a Software Developer @ TeamViewer
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
