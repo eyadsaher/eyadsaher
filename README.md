@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Probably%20Traveling%20somewhere&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Probably%20traveling%20somewhere&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Software Developer @ TeamViewer
@@ -22,6 +22,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
 ![TvpeScript](https://img.shields.io/badge/-TypeScript-013?style=for-the-badge&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-013?style=for-the-badge&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-013?style=for-the-badge&logo=Django)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
