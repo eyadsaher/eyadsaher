@@ -25,28 +25,3 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-013?style=for-the-badge&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-013?style=for-the-badge&logo=python)&nbsp;
-![C++](https://custom-icon-badges.demolab.com/badge/C++-013.svg?style=for-the-badge&logo=cpp2&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-013?style=for-the-badge&logo=java)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-013?style=for-the-badge&logo=kotlin)&nbsp;
-![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-013?style=for-the-badge&logo=nextdotjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-013?style=for-the-badge&logo=express)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-013?style=for-the-badge&logo=firebase)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-013?style=for-the-badge&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-013?style=for-the-badge&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-013?style=for-the-badge&logo=mongodb)&nbsp;
-![Django](https://img.shields.io/badge/-Django-013?style=for-the-badge&logo=Django)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-013?style=for-the-badge&logo=spring)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-013?style=for-the-badge&logo=amazonaws)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-013?style=for-the-badge&logo=docker)&nbsp;
-
-
-
