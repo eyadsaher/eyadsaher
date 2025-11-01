@@ -23,4 +23,4 @@
     <img src="https://img.shields.io/badge/Gmail-eyadsaher25@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=black"/>
 </a>
 
-[😂 Watch this for a quick laugh!](https://www.youtube.com/watch?v=2HTHPtoNJLk&t=3s)
+Watch this for a quick laugh 😂 [here](https://www.youtube.com/watch?v=2HTHPtoNJLk&t=3s)
