@@ -8,10 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;The%20more%20you%20fuck%20around%20the%20more%20you%20find%20out&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;The%20more%20you%20fuck%20around,%20the%20more%20you%20find%20out&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&size=22">
+</a>
 </p> 
 
-- 🏢 I'm a Software Developer @ TeamViewer
+- 🏢 I'm a Software Engineer @ TeamViewer
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
