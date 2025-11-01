@@ -23,5 +23,4 @@
     <img src="https://img.shields.io/badge/Gmail-eyadsaher25@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=black"/>
 </a>
 
-
-
+<a href="https://www.w3schools.com">Watch this for a quick laugh 😂</a>
