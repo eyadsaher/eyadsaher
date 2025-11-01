@@ -25,6 +25,5 @@
 
 <br>
 <br>
-<br>
 
 Watch this for a quick laugh 😂 [here](https://www.youtube.com/watch?v=2HTHPtoNJLk&t=3s)
